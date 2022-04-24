@@ -1,0 +1,38 @@
+---
+title: "Predictive Modeling Takeaways"
+author: "Loren Liss"
+date: '2022-04-24'
+output: html_document
+---
+
+#### Week 1
+
+In week 1, I learned that supervised learning problems have a response variable whereas unsupervised learning problems do not. Additionally, I learned that more flexible models generally have higher variances and lower biases compared to less flexible models.
+
+#### Week 2
+
+During week 2, I learned that exploratory data analysis is important to perform on a dataset because it can allow for a good understanding of patterns and oddities in it. Furthermore, it might be necessary for a heavily-skewed variable to be log-transformed to make its distribution more symmetrical.
+
+#### Week 3
+
+One important lesson from the 3rd week is that linear regression is generally the first method that should be tried before more complicated ones. Moreover, I learned that correlated variables may lower the accuracy of a linear regression model.
+
+#### Week 4
+
+In the 4th week, I learned that logistic regression predicts the probability that an observation falls into a specific category. I also learned that precision is an important metric when false positives are critical to monitor while recall is a crucial metric when false negatives are important to track.
+
+#### Week 5
+
+During the 5th week, I learned that a generalized linear model (GLM) can have non-normal response values, which can be helpful in situations where the normality assumption of a linear regression model is a hindrance. It is also worth noting that Poisson regression models are good to utilize when the response is a count variable, which is a non-negative integer.
+
+#### Week 6
+
+In week 6, I learned that decision trees are easier to explain and illustrate as compared to other models. Furthermore, I learned that random forests tend to have lower variances than decision trees but are more complicated to explain.
+
+#### Week 7
+
+One main takeaway from the 7th week is that k-means clustering is an unsupervised technique that is used to divide observations into distinct groupings. Moreover, I learned that unsupervised learning algorithms have a wide variety of applications, ranging from marketing to medicine.
+
+#### Week 8
+
+In week 8, I learned that an excellent analysis is practically useless if it can not be communicated to its audience. I also learned that Git is good for collaborative projects involving multiple people.
